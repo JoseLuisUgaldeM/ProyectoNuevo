@@ -1,0 +1,26 @@
+html{
+    padding: 10px;
+    
+}
+
+.barraNavegacion{
+
+    position: fixed;
+    top: 0px;
+    left: 12px;
+    width: 98%;
+    background-color: white;
+    z-index: 80;
+    
+}
+
+.header {
+
+    padding-top: 114px;
+}
+
+.cards:hover{
+    border: 2px solid rgb(117, 117, 245);
+    box-shadow: rgba(83, 82, 79, 0.8)  10px 10px 10px;
+    transform: translateY(-3%) 
+}
